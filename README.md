@@ -1,4 +1,5 @@
 # Zpisher
+first: cd Zpisher🏢
 # 1. Extract the file
 unzip zphisher-master.zip
 
