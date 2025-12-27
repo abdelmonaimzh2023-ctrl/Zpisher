@@ -1,10 +1,10 @@
 # Zpisher
 first: cd Zpisher🏢
 # 1. Extract the file
-unzip zphisher-master.zip
+unzip SIN5.zip
 
 # 2. Enter the directory
-cd zphisher-master
+cd zphisher
 
 # 3. Grant execution permission
 chmod +x zphisher.sh
